@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vendor/symfony/security/Core/Authentication/Token/UsernamePasswordToken.php",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/services.yaml",
+			"settings":
+			{
+				"buffer_size": 1537,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/config",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/src",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/src/Form",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/src/Service",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/var",
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/var/demo-data"
+	],
+	"file_history":
+	[
+		"/Users/talexandru/Documents/htbase/multi-image-gallery-blog/.env",
+		"/Users/talexandru/Documents/htbase/juke_gateway/src/Controller/Security/V1/UserController.php",
+		"/Users/talexandru/Documents/htbase/juke_gateway/config/packages/routing.yaml",
+		"/Users/talexandru/Documents/htbase/juke_gateway/config/routes.yaml",
+		"/Users/talexandru/Documents/htbase/juke_gateway/config/bundles.php",
+		"/Users/talexandru/Documents/htbase/juke_gateway/config/packages/dev/routing.yaml",
+		"/Users/talexandru/Documents/htbase/juke_gateway/config/services.yaml",
+		"/Users/talexandru/pCloud Drive/web/knpUniversity/Symfony Rest/course 5/symfony-rest5/finish/app/config/services.yml",
+		"/Users/talexandru/pCloud Drive/web/knpUniversity/Symfony Rest/course 5/symfony-rest5/finish/app/config/routing.yml",
+		"/Users/talexandru/pCloud Drive/web/knpUniversity/Symfony Rest/course 5/symfony-rest5/finish/src/AppBundle/Api/ResponseFactory.php",
+		"/Users/talexandru/Downloads/rest-api-movies/README.md",
+		"/Users/talexandru/pCloud Drive/web/ide/open-folder-with-subl",
+		"/Users/talexandru/Documents/htbase/juke_gateway/.env",
+		"/Users/talexandru/Documents/htbase/MaestroWeb/.env",
+		"/Users/talexandru/Downloads/-.php",
+		"/Users/talexandru/Downloads/maestroweb_2018-12-19.sql",
+		"/Users/talexandru/Downloads/cloud-credentials",
+		"/Users/talexandru/Downloads/test.txt",
+		"/Users/talexandru/pCloud Drive/docs",
+		"/Users/talexandru/pCloud Drive/docs/db/maestroweb-api_2018-12-17.sql",
+		"/Users/talexandru/Downloads/php-zmq/zmq.c",
+		"/Users/talexandru/Downloads/mamp",
+		"/Users/talexandru/Downloads/mac",
+		"/Users/talexandru/.bash_profile",
+		"/Users/talexandru/.aliases"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vendor/symfony/security/Core/Authentication/Token/UsernamePasswordToken.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 366.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/services.yaml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "multi-image-gallery-blog.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/htbase/htbase.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
